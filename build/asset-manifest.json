@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-bootstrap-test/./static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-bootstrap-test/./static/js/main.9ff4197c.chunk.js",
+    "main.js.map": "/react-bootstrap-test/./static/js/main.9ff4197c.chunk.js.map",
+    "runtime-main.js": "/react-bootstrap-test/./static/js/runtime-main.16d8d135.js",
+    "runtime-main.js.map": "/react-bootstrap-test/./static/js/runtime-main.16d8d135.js.map",
+    "static/js/2.937f3c94.chunk.js": "/react-bootstrap-test/./static/js/2.937f3c94.chunk.js",
+    "static/js/2.937f3c94.chunk.js.map": "/react-bootstrap-test/./static/js/2.937f3c94.chunk.js.map",
+    "index.html": "/react-bootstrap-test/./index.html",
+    "precache-manifest.7bad7a4b196d6627469824ce5786f22f.js": "/react-bootstrap-test/./precache-manifest.7bad7a4b196d6627469824ce5786f22f.js",
+    "service-worker.js": "/react-bootstrap-test/./service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-bootstrap-test/./static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.937f3c94.chunk.js.LICENSE": "/react-bootstrap-test/./static/js/2.937f3c94.chunk.js.LICENSE",
+    "static/media/boatImage.jpg": "/react-bootstrap-test/./static/media/boatImage.d61546cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16d8d135.js",
+    "static/js/2.937f3c94.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9ff4197c.chunk.js"
+  ]
+}
